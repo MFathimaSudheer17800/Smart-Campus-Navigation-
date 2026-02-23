@@ -1,1 +1,1 @@
-# Smart-Campus-Navigation-
+# CSD 481 - SMART CAMPUS NAVIGATION
